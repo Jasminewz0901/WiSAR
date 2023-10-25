@@ -6,6 +6,12 @@ from TkinterFire import*
 #Just a test*
 
 
+
+
+
+
+
+
 def start(root):
     root.geometry("500x450")
     root.title("Welcome to WISAR")
